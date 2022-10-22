@@ -8,7 +8,7 @@ currently...
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=wdrdg&hide_rank=true&line_height=20&count_private=true&show_icons=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Rui Song&hide_rank=true&line_height=20&count_private=true&show_icons=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wdrdg&layout=compact">
 </p>
 
