@@ -4,7 +4,7 @@
 ## hello hello hellos!
 currently...
 <br>
-📚 studying @ **McGill**
+📚 studied @ **McGill**
 <br>
 
 <p align = "center">
@@ -15,8 +15,8 @@ currently...
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Generalized_MADDPG and Fairness in RS
-- 🌱 I’m currently learning DeFi
+- 🔭 I’m currently working on Data Enigneer and Data Science
+- 🌱 I’m currently learning Efficient ML
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <details> 
 <summary> <b>hmmm... what's in here?</b> </summary>
-
-
+My CAT!
+![e6bb64f4cfedff452b3079450084fe7](https://github.com/user-attachments/assets/186c64d4-f39f-455b-b4be-4af5248ce155)
 
 </details>
