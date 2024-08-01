@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <details> 
 <summary> <b>hmmm... what's in here?</b> </summary>
 My CAT!
-![alt text](https://github.com/user-attachments/assets/186c64d4-f39f-455b-b4be-4af5248ce155)
+  
+![](https://github.com/user-attachments/assets/186c64d4-f39f-455b-b4be-4af5248ce155)
 
 </details>
