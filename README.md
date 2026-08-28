@@ -4,6 +4,7 @@
 ## hello hello hellos!
 
 <br>
+
 - studied @ **McGill**
 
 - worked @ **Bell Canada**
