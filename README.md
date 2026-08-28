@@ -5,8 +5,11 @@
 
 <br>
 - studied @ **McGill**
+
 - worked @ **Bell Canada**
+  
 - studying @ **U of T**
+  
 - doing research with teammates from **Cambridge University**, **Mila**, **McGill**, **MBZUAI**, **MIT**
 <br>
 
